@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Aiden
 
-[![Github](https://img.shields.io/github/followers/mattn?label=Follow&style=social)](https://github.com/lpxxn)
+[![Github](https://img.shields.io/github/followers/lpxxn?label=Follow&style=social)](https://github.com/lpxxn)
 
 I ❤ Open Source. 
 
